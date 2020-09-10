@@ -1,3 +1,5 @@
+submissionNotebook.iypnb and submissionNotebook1.ipynb contains the basic CNN models. submission3.ipynb contains the best model. <br> 
+
 This folder contains my code for JanataHack: Computer Vision Hackathon, organized by Analytics Vidhya during COVID-19 pandemic. Link for the same is here https://datahack.analyticsvidhya.com/contest/janatahack-computer-vision-hackathon/#ProblemStatement <br>
 
 # Importance of problem
