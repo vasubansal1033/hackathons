@@ -46,13 +46,13 @@ The chroma variant “Chroma Energy Normalized” (CENS).<br/>
 
 ## Neural Network Implementation 
 A simple Neural Network with dropouts was used.<br/>
-The following results are obtained by training on folders 1-9 and testing on folder 10. <br />
+The following results are obtained by training on folders 1-9 and testing on folder 10. <br>
 Train accuracy: 93.14% <br />
 Test accuracy: 66.06%<br />
 
 ## Convolutional Neural Network Implementation 
 A convolutional Neural Network with dropouts was used.<br/>
-The following results are obtained by training on folders 1-9 and testing on folder 10. <br />
+The following results are obtained by training on folders 1-9 and testing on folder 10. <br>
 Train accuracy: 95.90% <br />
 Test accuracy: 73.11%<br />
 
@@ -61,3 +61,5 @@ https://github.com/AmritK10/Urban-Sound-Classification/blob/master/Urban_data_pr
 https://github.com/AmritK10/Urban-Sound-Classification<br>
 https://github.com/AmritK10/Urban-Sound-Classification/blob/master/Urban_cnn_model.ipynb<br>
 Future reference for using RNNs - https://www.analyticsvidhya.com/blog/2018/02/audio-beat-tracking-for-music-information-retrieval/<br>
+Using Librosa tutorial https://medium.com/@sdoshi579/classification-of-music-into-different-genres-using-keras-82ab5339efe0 https://towardsdatascience.com/extract-features-of-music-75a3f9bc265d<br>
+https://en.wikipedia.org/wiki/Mel_scale
